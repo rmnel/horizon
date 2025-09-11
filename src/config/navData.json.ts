@@ -19,30 +19,30 @@ const navConfig: navItem[] = [
 	},
 	{
 		text: "portfolios",
-		link: "/portfolio",
+		link: "/horizon/portfolio",
 	},
 	{
 		text: "Pricing",
-		link: "/#pricing",
+		link: "/horizon/#pricing",
 	},
 	{
 		text: "Pages",
 		dropdown: [
 			{
 				text: "Portfolio",
-				link: "/portfolio/couple-1",
+				link: "/horizon/portfolio/couple-1",
 			},
 			{
 				text: "Legal",
-				link: "/privacy-policy/",
+				link: "/horizon/privacy-policy/",
 			},
 			{
 				text: "Elements",
-				link: "/elements/",
+				link: "/horizon/elements/",
 			},
 			{
 				text: "404",
-				link: "/not-a-link/",
+				link: "/horizon/not-a-link/",
 			},
 		],
 	},
