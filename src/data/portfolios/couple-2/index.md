@@ -1,7 +1,7 @@
 ---
 title: A beachside celebration
 description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
-heroImage: ./couple-3-square.jpg
+heroImage: ./couple-3-square.jpeg
 date: "Jun 12 2024"
 location: Miami, Florida
 clients: [Alex, Jeff]
