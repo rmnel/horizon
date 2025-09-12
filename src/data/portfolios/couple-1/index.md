@@ -7,10 +7,10 @@ location: Malibu, California
 clients: [Hannah, Marco]
 images:
   [
-    [./couple-2-min-1.jpg, ./couple-2-min-1.jpg],
-    [./rings-wood-min-1.jpg, ./seals-min-1.jpg, ./rings-wood-min-1.jpg],
-    [./couple-9-1.jpg],
-    [./cake-min-1.jpg, ./dress-min-1.jpg],
+    [./Untitled-4.jpeg, ./Untitled-4.jpeg],
+    [./Untitled-5.jpeg, ./Untitled-6.jpeg, ./Untitled-7.jpeg],
+    [./Untitled-8.jpeg],
+    [./Untitled-9.jpeg, ./Untitled-10.jpg],
   ]
 order: 1
 ---
