@@ -29,8 +29,16 @@ const navConfig: navItem[] = [
 		text: "Pages",
 		dropdown: [
 			{
-				text: "Portfolio",
+				text: "Portfolio Couple-1",
 				link: "/horizon/portfolio/couple-1",
+			},
+			{
+				text: "Portfolio Couple-2",
+				link: "/horizon/portfolio/couple-2",
+			},
+			{
+				text: "Portfolio Couple-3",
+				link: "/horizon/portfolio/couple-3",
 			},
 			{
 				text: "Legal",
