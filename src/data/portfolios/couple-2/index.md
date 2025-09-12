@@ -7,9 +7,9 @@ location: Miami, Florida
 clients: [Alex, Jeff]
 images:
   [
-    [./couple-2-min-2.jpg, ./couple-2-min-2.jpg],
-    [./rings-wood-min-2.jpg, ./seals-min-2.jpg, ./rings-wood-min-2.jpg],
-    [./couple-9-2.jpg],
+    [./landscapes-2.jpeg, ./landscapes-2.jpeg],
+    [./landscapes-3.jpeg, ./landscapes-4.jpeg, ./landscapes-5.jpeg],
+    [./landscapes-6.jpeg],
     [./cake-min-2.jpg, ./dress-min-2.jpg],
   ]
 order: 2
