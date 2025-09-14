@@ -1,6 +1,6 @@
 ---
 title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
+description: Transform your Pilates Reformer moments into lasting memories amidst Vinh Long's majestic Cai Be river.
 heroImage: ./landscapes-1.jpeg
 date: "Aug 5 2024"
 location: Malibu, California
@@ -15,4 +15,4 @@ images:
 order: 1
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+This Pilates Reformer Package was a breathtaking affair. The stunning river views provided a picturesque backdrop. The coaching beautifully captured the intimate moments, the vibrant energy, and the overall ambiance of the day.
