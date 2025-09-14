@@ -1,6 +1,6 @@
 ---
-title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
+title: A Pilates Reformer celebration
+description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your Pilates Reformer Journey
 heroImage: ./couple-3-square.jpeg
 date: "Jun 12 2024"
 location: Miami, Florida
@@ -15,4 +15,4 @@ images:
 order: 2
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+This Pilates Reformer Journey was a breathtaking affair. The stunning river views provided a picturesque backdrop. The coaching beautifully captured the intimate moments, the vibrant energy, and the overall ambiance of the day.
