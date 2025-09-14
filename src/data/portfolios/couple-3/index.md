@@ -1,7 +1,7 @@
 ---
 title: A high-class affair
 description: Relive the elegance of your venue and the grandeur of your wedding through artistic photography.
-heroImage: ./couple-4-square.jpg
+heroImage: ./Untitled-8.jpeg
 date: "Apr 15 2024"
 location: Houston, Texas
 clients: [Julia, David]
