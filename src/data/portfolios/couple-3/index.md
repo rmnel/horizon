@@ -1,6 +1,6 @@
 ---
 title: A high-class affair
-description: Relive the elegance of your venue and the grandeur of your wedding through artistic photography.
+description: Relive the elegance of Pilates and the grandeur of your fitness journey through artistic coaching.
 heroImage: ./Untitled-8.jpeg
 date: "Apr 15 2024"
 location: Houston, Texas
@@ -15,4 +15,4 @@ images:
 order: 3
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+This Pilates Reformer session was a breathtaking affair. The stunning river views provided a picturesque backdrop. The coaching beautifully captured the intimate moments, the vibrant energy, and the overall ambiance of the day.
